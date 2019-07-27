@@ -1,0 +1,115 @@
+.container
+{
+    overflow:hidden;
+    display:inline-block;
+}
+
+.side-bar
+{
+    background:#d86c6c;
+    position:absolute;
+    height:125%;
+    width:200px;
+    color:rgb(243, 235, 235);
+    transition: margin-left 0.5s;
+}
+
+.side-bar ul
+{
+    list-style:none;
+    padding:0px;
+    font-family: Courier New, sans-serif;
+    
+}
+
+.side-bar ul li.menu-head, p
+{
+    font-family: Courier New, sans-serif;
+    padding:15px;
+}
+
+.side-bar ul h5 {
+    text-align: center;
+}
+.side-bar ul li.menu-head a
+{
+    color:#fff;
+    text-decoration:none;
+    height:50px;
+}
+
+.side-bar ul .menu-head  a
+{
+    color:#fff;
+    text-decoration:none;
+    height:50px;
+}
+
+.side-bar ul .menu li  a 
+{
+    color: #727272;
+    text-decoration:none;
+    display:inline-table;
+    width:100%;
+}
+
+#datetime, #county, #status, #connectiontype, .btn {
+    width: 170px;
+    margin-top: 5px;
+}
+
+table, h2 {
+    font-family: 'Courier New', sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.content
+{
+    padding-left: 200px;
+    transition: padding-left 0.5s;
+}
+
+.panel {
+    margin-top: 20px;
+}
+
+.previous a, .next a {
+    font-family: 'Courier New', sans-serif;
+    color: black;
+}
+
+.display {
+    font-family: 'Courier New', sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+@media (max-width: 650px) {
+    #datetime, #county, #status, #connectiontype, .btn {
+        width: 180px;
+        margin-left: 9px;
+        margin-top: 5px;
+    }
+    #search {
+        width: 180px;
+    }
+
+    .panel {
+        width: 400px;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    .display {
+        font-size: 12px;
+        text-align: center;
+    }
+}

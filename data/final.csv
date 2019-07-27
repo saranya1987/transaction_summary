@@ -1,0 +1,18 @@
+,County,File_Type,Connection_Type,Ftp_Link,Username,Password,is_download_completed,is_upload_completed,upload_time,number_of_files_extracted,number_of_files_uploaded,upload_date_sep
+0,IL_Kankakee,Folder,FTP,209.37.64.103,corelogic,logiccore,Failed,Home Folder  (File should be download by 11 am pst after that no file will be available),,-999,-999,-999
+1,TX_FortBend,Folder,FTP,209.184.91.45,firstares,brath69e,completed,no files to upload,11:15:13 PDT,-999,-999,04/18/2019
+2,MN_Douglas_1,Zip,FTP,ftpdas2.com,cortor_douglas,cbouGH1ay,completed,completed,11:15:15 PDT,-999,-999,04/18/2019
+3,IL_Lake,Folder,SFTP,sftp.lakecountyil.gov,RDFTP2,4$i?!614,completed,completed,11:15:17 PDT,-999,-999,04/18/2019
+4,WA_Douglas,Zip,FTP,www.douglascountywa.net,fac,fac10,completed,completed,11:15:21 PDT,-999,-999,04/18/2019
+5,MN_Douglas_2,Zip,FTP,ftpdas2.com,corabs_douglas,c7AUPAIvo,completed,completed,11:15:28 PDT,-999,-999,04/18/2019
+6,CO_Ouray,Folder,SFTP,ftp.fnf.com,corelogic,LH0f1ppa,completed,completed,11:15:37 PDT,-999,-999,04/18/2019
+7,CA_Amador,Tar,FTP,ftp.pfainc.com,CoreLogic,#C0r3106!c@m@d0r!,completed,completed,11:15:50 PDT,52,52,04/18/2019
+8,CO_Routt,Zip,FTP,ftp.co.routt.co.us,Anonymous,Anonymous,completed,completed,11:17:26 PDT,-999,-999,04/18/2019
+9,CA_Eldorado,Folder,SFTP,sftp2.edcgov.us,corelogic2,Corelogic2019!,completed,completed,11:18:08 PDT,-999,-999,04/18/2019
+10,CO_Montrose,Folder,SFTP,ftp.fnf.com,corelogic,LH0f1ppa,completed,completed,11:19:31 PDT,-999,-999,04/18/2019
+11,CO_Garfield,Folder,SFTP,ftp.fnf.com,corelogic,LH0f1ppa,completed,completed,11:20:29 PDT,-999,-999,04/18/2019
+12,CO_Mesa,Folder,SFTP,ftp.fnf.com,corelogic,LH0f1ppa,completed,completed,11:20:49 PDT,-999,-999,04/18/2019
+13,CO_Gunnis,Folder,SFTP,ftp.fnf.com,corelogic,LH0f1ppa,completed,completed,11:21:15 PDT,-999,-999,04/18/2019
+14,WA_Skagit,Folder,SFTP,ftp3.skagitcounty.net,kalcaraz@corelogic.com,276RV03w,completed,completed,11:21:35 PDT,-999,-999,04/18/2019
+15,MN_Saintlouis,PDF,SFTP,ftp1.stlouiscountymn.gov,CoreLogic,C0r3L0g1c,completed,completed,11:26:04 PDT,-999,-999,04/18/2019
+16,CA_Fresno,Folder,SFTP,transfer1.co.fresno.ca.us,Corelogic,%sZ7mx!Pw25V,completed,completed,11:31:09 PDT,-999,-999,04/18/2019
